@@ -6,14 +6,13 @@ I recently finished my Master in Data Science from Politecnico di Milano 🇮�
 At the moment I'm a Data Scientist in a fintech company in Italy.
 
 🏔️ **Interests**  
-Data Science, Deep Learning, Technology, Mountains, Chess, Tennis 
+Data Science, Deep Learning, Technology, Mountains, Chess, Tennis, Hiking
 
 🐍 **Tech Stack I'm familiar with** 
-- Programming Langauges: Python, Bash, currently exploring TypeScript  
+- Programming Langauges: Python, Bash, SQL, R
 - OS: MacOS, Ubuntu, Manjaro  
 - Deep Learning framework: Tensorflow ([Developer Certificate](https://www.credential.net/44299ff6-dc0d-4529-9b42-b9697bf34e1c)), familiar with PyTorch
-- Cloud platform: GCP, AWS  
-- DBs: SQL, MongoDB, Presto  
+- Cloud platforms: GCP, AWS
 
 **Contacts**  
 [![Linkedin Badge](https://img.shields.io/badge/-giacomomiolo-3366CC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomo-miolo-83a49ba4/)](https://www.linkedin.com/in/giacomo-miolo/) [![Gmail Badge](https://img.shields.io/badge/-giacomo.miolo@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=giacomo.miolo@gmail.com)  
