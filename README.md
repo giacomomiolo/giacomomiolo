@@ -1,6 +1,6 @@
 ### Hey there! 👋  
 
-I recently completed the master in Data Science and Business Analytics at Politecnico di Milano 🇮🇹 with a thesis project in collaboration with the European Commission 🇪🇺 and the Karolisnka Institutet 🇸🇪. The project was about improving scientific literature quality assessment leveraging the latest advancements in NLP, currently writing the paper for the model developed.
+I recently finished my Master in Data Science from Politecnico di Milano 🇮🇹 and completed a research project in collaboration with the European Commission 🇪🇺 and the Karolisnka Institutet 🇸🇪 in the field Natural Language Processing which resulted in the publication of ELECTRAMed, a state-of-the-art language model for biomedical text mining.
 
 🔭 **Currently working on**  
 At the moment I'm a Data Scientist in a fintech company in Italy.
