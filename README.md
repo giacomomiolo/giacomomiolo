@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hey, I'm Giacomo! 👋
 
 I love to build and explore.
 
