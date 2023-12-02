@@ -4,7 +4,7 @@ I love to build and explore.
 
 👤 **Some more about me:**
 - CDO at [Volteras](https://volteras.com) — building useful, reliable and secure infrastructure for the future of energy and mobility.
-- NLP enthusiast — former NLP researcher at the European Commission + Karolinska Institutet, publsihed [ELECTRAMed](https://github.com/gmpoli/electramed), a state-of-the-art (at the time) large language model for biomedical text mining.
+- NLP enthusiast — former NLP researcher at the European Commission + Karolinska Institutet, published [ELECTRAMed](https://github.com/gmpoli/electramed), a state-of-the-art (at the time) large language model for biomedical text mining.
 - Curious reader — I like physical books, sometimes even reading them!
 
 🔭 **Interested in:**
