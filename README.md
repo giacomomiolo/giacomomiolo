@@ -11,7 +11,7 @@ I love to build and explore.
 - Technology, energy, data science, neuroscience, running, bouldering, hiking.
 
 🛠️ **Tech I use:**
-- Programming langauges: python, bash, SQL. Learning rust and typescript.
+- Programming langauges: python, rust, SQL. Learning typescript.
 - Hardware: apple, nvidia, western digital, synology, LG, logitech, keychron.
 - Software: lots! Favourite ones: [obsidian](https://obsidian.md/), [raycast](https://www.raycast.com/), [little snitch](https://www.obdev.at/products/littlesnitch/index.html).
 - Cloud vendors: AWS, [Modal Labs](https://modal.com/).
