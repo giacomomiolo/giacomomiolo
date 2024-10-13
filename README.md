@@ -8,12 +8,12 @@ I love to build and explore.
 - Curious reader — I like physical books, sometimes even reading them!
 
 🔭 **Interested in:**
-- Technology, energy, data science, neuroscience, running, bouldering, hiking.
+- Technology, startups, energy, data science, neuroscience, running, bouldering, hiking.
 
 🛠️ **Tech I use:**
-- Programming langauges: python, rust, SQL. Learning typescript.
-- Hardware: apple, nvidia, western digital, synology, LG, logitech, keychron.
-- Software: lots! Favourite ones: [obsidian](https://obsidian.md/), [raycast](https://www.raycast.com/), [little snitch](https://www.obdev.at/products/littlesnitch/index.html).
+- Programming langauges: python, rust, typescript, SQL.
+- Hardware: apple, nvidia, western digital, intel, synology, LG, logitech, keychron.
+- Software: lots! Favourite ones: [obsidian](https://obsidian.md/), [raycast](https://www.raycast.com/), [little snitch](https://www.obdev.at/products/littlesnitch/index.html). Ubuntu normie for my home lab.
 - Cloud vendors: AWS, [Modal Labs](https://modal.com/).
 
 💬 **Contacts:**
